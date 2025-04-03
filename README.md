@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Ive-Christine! 😁
+## Bem-vindo(a) ao meu perfil! 🙂
 
  <div>
    <a href="https://github.com/devemdobro">
@@ -14,7 +14,4 @@
  
 <br>
  
-### Me siga na rede social abaixo!
- 
-  <a href="https://www.linkedin.com/in/ive-christine-s-101a1b107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
